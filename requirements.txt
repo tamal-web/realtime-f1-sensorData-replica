@@ -1,0 +1,9 @@
+fastf1
+pandas
+websockets
+numpy
+scipy
+matplotlib
+# Add model dependencies if needed, e.g.:
+scikit-learn
+torch
