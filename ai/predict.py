@@ -4,7 +4,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.metrics import mean_absolute_error
 
-
 def get_monaco_2025_predictions(cache_dir: str = "f1_cache") -> dict:
     """Return predictions for Monaco 2025 as a dictionary:
     {
